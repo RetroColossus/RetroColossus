@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a back-end developer 
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on anything that will help me reach my goal
-- 📫 How to reach me daniel.thomas215@hotmail.com
+- 📫 How to reach me danthomas215@gmail.com
 
 <!---
 RetroColossus/RetroColossus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
